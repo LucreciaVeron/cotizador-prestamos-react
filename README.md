@@ -3,6 +3,8 @@
 Aplicación web desarrollada en **React** que simula un sistema de cotización de préstamos.  
 El usuario puede seleccionar el monto y el plazo de pago, y el sistema calcula automáticamente el total a devolver aplicando diferentes tasas de interés.  
 
+Este proyecto fue creado como parte del curso de Udemy: [JavaScript Moderno: Guía Definitiva Construye +10 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos)
+
 ---
 
 ## 🚀 Características
